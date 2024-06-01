@@ -1,6 +1,6 @@
 # 💫 Olá, eu sou Jean!
 
-👨‍💻 Desenvolvedor de Software Back-end <br><br>👨🏻‍🎓 Cursando <b>Ciência da Computação</b> na Universidade Veiga de Almeida<br><br>🔎 Aprofundando meus conhecimentos em tecnologia e compartilhando <br>projetos e ideias<br><br>📚 Estudando <b>Asp.Net Core</b>,<b> Next.js</b>, <b>RESTful APIs</b>...
+👨‍💻 Desenvolvedor de Software<br><br>👨🏻‍🎓 Cursando <b>Ciência da Computação</b> na Universidade Veiga de Almeida<br><br>🔎 Aprofundando meus conhecimentos em tecnologia e compartilhando <br>projetos e ideias<br><br>📚 Estudando <b>Asp.Net Core</b>,<b> Next.js</b>, <b>RESTful APIs</b>...
 
 ## 🌐 Redes Sociais
 
